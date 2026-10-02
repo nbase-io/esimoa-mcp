@@ -1,0 +1,11 @@
+{
+  "name": "esimoa",
+  "version": "1.0.0",
+  "description": "Compare travel eSIM plans by country, days and data — live prices and links to buy on esimoa.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "esimoa": {
+      "httpUrl": "https://api.esimoa.com/mcp"
+    }
+  }
+}

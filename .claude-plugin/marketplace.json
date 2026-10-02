@@ -1,0 +1,14 @@
+{
+  "name": "esimoa",
+  "owner": {
+    "name": "esimoa",
+    "email": "support@esimoa.com"
+  },
+  "plugins": [
+    {
+      "name": "esimoa",
+      "source": "./plugins/esimoa",
+      "description": "Search and compare travel eSIM plans by country, days, data, local phone number, network and price."
+    }
+  ]
+}
