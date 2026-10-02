@@ -3,13 +3,19 @@
   "name": "com.esimoa/esim",
   "title": "esimoa — travel eSIM comparison",
   "description": "Compare travel eSIM plans by country, days and data — live prices and links to buy on esimoa.",
-  "version": "1.0.0",
-  "websiteUrl": "https://www.esimoa.com",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.esimoa.com/en/developers/docs/mcp",
+  "repository": {
+    "url": "https://github.com/nbase-io/esimoa-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://www.esimoa.com/assets/brand/logo/esimoa-app-icon-fullcolor-on-mist-512x512.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [
