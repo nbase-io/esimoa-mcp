@@ -1,6 +1,6 @@
 {
   "name": "esimoa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Search and compare travel eSIM plans by country, days, data, local phone number, network and price, with links to each plan on esimoa.com.",
   "author": {
     "name": "esimoa",
@@ -10,5 +10,10 @@
   "homepage": "https://www.esimoa.com",
   "repository": "https://github.com/nbase-io/esimoa-mcp",
   "license": "MIT",
-  "keywords": ["esim", "travel", "roaming", "mcp"]
+  "keywords": [
+    "esim",
+    "travel",
+    "roaming",
+    "mcp"
+  ]
 }
